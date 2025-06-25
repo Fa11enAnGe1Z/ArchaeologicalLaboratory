@@ -7,3 +7,6 @@
 
 Для загрузки файлов карты для сервера:
 Переместите файлы "lines_handler.php", "map.php", "saved_lines.json" в папку сервера.
+
+Для загрузки базы данных MySQL:
+Откройте файл "coordinates_lines.sql" на сервере MySQL.
